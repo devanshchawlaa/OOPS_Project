@@ -1,22 +1,7 @@
-# 260031_Mini_Project_LTTS
 # Fitness Calculator
-Larsen & Toubro Technology Services Python Project Repo - A python script for calculating Body Mass Index and Basal Metabolic Rate of a person.
+A python script for calculating Body Mass Index and Basal Metabolic Rate of a person.
 
-![Banner](https://github.com/shubh-77/260031_Mini_Project_LTTS/blob/main/fit_img.png)
-
-## Badges
-[![Code Coverage [PyTest-Cov]](https://github.com/shubh-77/260031_Mini_Project_LTTS/actions/workflows/code-coverage-term.yml/badge.svg)](https://github.com/shubh-77/260031_Mini_Project_LTTS/actions/workflows/code-coverage-term.yml)
-
-[![Lint [Flake8]](https://github.com/shubh-77/260031_Mini_Project_LTTS/actions/workflows/flake8-lint.yml/badge.svg)](https://github.com/shubh-77/260031_Mini_Project_LTTS/actions/workflows/flake8-lint.yml)
-
-
-[![Build [PyInstaller]](https://github.com/shubh-77/260031_Mini_Project_LTTS/actions/workflows/build-app.yml/badge.svg)](https://github.com/shubh-77/260031_Mini_Project_LTTS/actions/workflows/build-app.yml)
-
-[![Unit Test [PyTest]](https://github.com/shubh-77/260031_Mini_Project_LTTS/actions/workflows/unit-test.yml/badge.svg)](https://github.com/shubh-77/260031_Mini_Project_LTTS/actions/workflows/unit-test.yml)
-
-
-
-
+![Banner](https://github.com/devanshchawlaa/OOPS_Project/blob/main/fit_img.png)
 
 
 
